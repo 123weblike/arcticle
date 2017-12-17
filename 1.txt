@@ -1,1 +1,7 @@
-12344555
+Ò»Ğ©gitÃüÁî£º
+git init
+git add 1.txt
+git status
+git commit -m "×¢ÊÍ"
+git remote add origin http://github.com
+git push -u origin master
